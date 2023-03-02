@@ -6,5 +6,7 @@
       <class name="vTiger.OrganizationsTests.CreateOrganizationTest"/>
       <class name="vTiger.ContactsTests.CreateContactWithOrganizationTest"/>   
     </classes>
+    
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
