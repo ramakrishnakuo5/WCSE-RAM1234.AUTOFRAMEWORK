@@ -6,4 +6,5 @@
       <class name="vTiger.Practice.ReadDataFromCMDLine"/>
     </classes>
   </test> <!-- Test -->
+  
 </suite> <!-- Suite -->
